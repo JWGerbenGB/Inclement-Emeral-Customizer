@@ -1,13 +1,13 @@
-### Inclement-Emeral-Customizer
+## Inclement-Emeral-Customizer
 A tool to customizably randomize your playthrough of Pokemon Inclement Emerald.  
-### A Few useful links:  
+## A Few useful links:  
 [Discord (for support, updates etc.)](https://discord.gg/77saBfk3F8)  
 [Inclement Emerald Discord](https://discord.gg/8m43nU7whs )  
 [Starter Guide for this tool](https://docs.google.com/document/d/11BQF5IK9LA7H2nWGZ0xlaM9tCxHP0ZYBM82-MmABSRo/  )  
 [In-Depth Documentation for this tool](https://docs.google.com/document/d/10YQNykg1vnEIjZAi8vuoqlYgqLIPndaFz2EM6GkSRM8/)
-### Trailer:
+## Trailer:
 https://user-images.githubusercontent.com/58632052/160122369-3f27cbb3-59a5-4cd7-90dd-4df93b828a3f.mp4
-### Example recolors:
+## Example recolors:
 ![Bulba](https://user-images.githubusercontent.com/58632052/160123976-e5e7b66b-b2f4-4d20-9d63-a4c6cc4377d7.png)
 ![Charma](https://user-images.githubusercontent.com/58632052/160123979-6af2b3b3-fcee-46a8-9220-0678898db1ef.png)
 ![Squirt](https://user-images.githubusercontent.com/58632052/160123983-9b48cc08-43f2-483b-935a-bc1361e50cb1.png)
