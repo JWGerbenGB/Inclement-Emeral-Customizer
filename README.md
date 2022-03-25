@@ -1,4 +1,4 @@
-## Inclement-Emeral-Customizer
+## Inclement-Emerald-Customizer
 A tool to customizably randomize your playthrough of Pokemon Inclement Emerald.  
 ## Useful links:  
 **[Discord [Support, Updates etc.]](https://discord.gg/77saBfk3F8)**  
